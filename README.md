@@ -1,4 +1,4 @@
-# Nteflix-Data-Analysis
+# Netflix-Data-Analysis
 This is a Python end to end project using Numpy, Pandas Matplotlib.pyplot, Seaborn.
 Objective of the Project:-
 1. Data Pre-Processing
